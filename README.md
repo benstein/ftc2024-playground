@@ -2,7 +2,7 @@
 
 ## Welcome to the Circuit Breakers 2024 playground
 
-TITLE: Circuit Breakers 2024 Story
+## Circuit Breakers 2024 Story
 
 Once upon a time, there was a robot named Circuit Breaker.
 
