@@ -2,6 +2,8 @@
 
 ## Welcome to the Circuit Breakers 2024 playground
 
+_This is where we will learn about version control and how to use GitHub._
+
 ## Circuit Breakers 2024 Story
 
 Once upon a time, there was a robot named Circuit Breaker.
